@@ -29,3 +29,8 @@ grafik_1.png: System tracking vs. reference trajectory.
 grafik_2-1.png, grafik_2-2.png, grafik_2-3.png: Tracking performance for each state (x1, x2, x3).
 grafik_3.png: Control input over time.
 grafik_4.png: PID parameters (Kp_1, Ki_1, Kd_1) over time.
+
+
+
+![HPi4k](https://github.com/user-attachments/assets/c95c0af3-3545-482a-8157-cd406b913641)
+
